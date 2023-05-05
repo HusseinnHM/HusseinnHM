@@ -50,15 +50,11 @@
   </a>
   </td> </tr>
 
-[//]: # (  <tr> <td> )
-
-[//]: # (  <a href="https://www.nuget.org/packages/Neptunee.BaseCleanArchitecture/">)
-
-[//]: # (  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.BaseCleanArchitecture?color=blue&label=Neptunee.BaseCleanArchitecture&logo=nuget&style=flate">)
-
-[//]: # (    </a>)
-
-[//]: # (  </td> </tr>)
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.BaseCleanArchitecture/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.BaseCleanArchitecture?color=blue&label=Neptunee.BaseCleanArchitecture&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
 
   </tbody>
 
