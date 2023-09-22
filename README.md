@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=husseinnhm&label=Profile%20views&color=0e75b6&style=flat" alt="husseinnhm" /> </p>
 
-- 🔭 I’m currently working on [Neptunee.BaseCleanArchitecture](https://github.com/HusseinnHM/Neptunee.BaseCleanArchitecture)
+- 🔭 I’m currently working on [Neptunee.EntityFrameworkCore.MultiLanguage](https://github.com/HusseinnHM/Neptunee.EntityFrameworkCore.MultiLanguage)
 
-- 👯 I published recently [Neptunee.xApi](https://github.com/HusseinnHM/Neptunee.xApi)
+- 👯 I published recently [Neptunee.BaseCleanArchitecture](https://github.com/HusseinnHM/Neptunee.BaseCleanArchitecture)
 
 - 🌱 I’m currently learning **CleanArchitecture, DDD.**
 
