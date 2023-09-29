@@ -56,6 +56,12 @@
   </a>
   </td> </tr>
 
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore.MultiLanguage/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.EntityFrameworkCore.MultiLanguage?color=blue&label=Neptunee.EntityFrameworkCore.MultiLanguage&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
+
   </tbody>
 
   </table>
