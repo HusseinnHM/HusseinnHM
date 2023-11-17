@@ -26,16 +26,19 @@
 
 <h3 align="left">Stack :</h3>
 <p align="left">
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40"/></code>
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="40" height="40"/></code> 
-<code><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/></code> 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></code> 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code>
-<code><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></code> 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code> 
-<code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code> 
-<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40"/></code>
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="40" height="40"/></code> 
+  <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/></code> 
+  <code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/></code> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></code>
+  <code><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/></code> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/></code> 
+  <code><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></code> 
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></code>
+  <code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></code>
 </p>
 
 <h3 align="left"> Nugets :</h3>
@@ -44,21 +47,11 @@
 
   <tbody>
 
-  <tr> <td> 
-    <a href="https://www.nuget.org/packages/Neptunee.xApi/">
-  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.xApi?color=blue&label=Neptunee.xApi&logo=nuget&style=flate">
-  </a>
-  </td> </tr>
+
 
   <tr> <td> 
     <a href="https://www.nuget.org/packages/Neptunee.BaseCleanArchitecture/">
   <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.BaseCleanArchitecture?color=blue&label=Neptunee.BaseCleanArchitecture&logo=nuget&style=flate">
-  </a>
-  </td> </tr>
-
-  <tr> <td> 
-    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore.MultiLanguage/">
-  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.EntityFrameworkCore.MultiLanguage?color=blue&label=Neptunee.EntityFrameworkCore.MultiLanguage&logo=nuget&style=flate">
   </a>
   </td> </tr>
   
@@ -68,6 +61,17 @@
   </a>
   </td> </tr>
   
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore.MultiLanguage/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.EntityFrameworkCore.MultiLanguage?color=blue&label=Neptunee.EntityFrameworkCore.MultiLanguage&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
+  
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.xApi/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.xApi?color=blue&label=Neptunee.xApi&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
   <tr> <td> 
     <a href="https://www.nuget.org/packages/Neptunee.Swagger/">
   <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.Swagger?color=blue&label=Neptunee.Swagger&logo=nuget&style=flate">
