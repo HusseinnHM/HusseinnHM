@@ -27,6 +27,7 @@
 <h3 align="left">Stack :</h3>
 <p align="left">
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="csharp" width="40" height="40"/></code>
+
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt="dotnet" width="40" height="40"/></code> 
   <code><img src="https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg" alt="postgresql" width="40" height="40"/></code> 
   <code><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="sqlserver" width="40" height="40"/></code>
@@ -51,7 +52,7 @@
 
   <tr> <td> 
     <a href="https://www.nuget.org/packages/Neptunee.BaseCleanArchitecture/">
-  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.BaseCleanArchitecture?color=blue&label=Neptunee.BaseCleanArchitecture&logo=nuget&style=flate">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee?color=blue&label=Neptunee&logo=nuget&style=flate">
   </a>
   </td> </tr>
   
@@ -77,6 +78,19 @@
   <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.Swagger?color=blue&label=Neptunee.Swagger&logo=nuget&style=flate">
   </a>
   </td> </tr>
+  
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.EntityFrameworkCore?color=blue&label=Neptunee.EntityFrameworkCore&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
+
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.Handlers?color=blue&label=Neptunee.Handlers&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
+  
 
   </tbody>
 
