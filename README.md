@@ -51,20 +51,32 @@
 
 
   <tr> <td> 
-    <a href="https://www.nuget.org/packages/Neptunee.BaseCleanArchitecture/">
+    <a href="https://www.nuget.org/packages/Neptunee/">
   <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee?color=blue&label=Neptunee&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
+
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.Handlers/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.Handlers?color=blue&label=Neptunee.Handlers&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
+
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.EntityFrameworkCore?color=blue&label=Neptunee.EntityFrameworkCore&logo=nuget&style=flate">
+  </a>
+  </td> </tr>
+
+  <tr> <td> 
+    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore.MultiLanguage/">
+  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.EntityFrameworkCore.MultiLanguage?color=blue&label=Neptunee.EntityFrameworkCore.MultiLanguage&logo=nuget&style=flate">
   </a>
   </td> </tr>
   
   <tr> <td> 
     <a href="https://www.nuget.org/packages/Neptunee.OperationResponse/">
   <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.OperationResponse?color=blue&label=Neptunee.OperationResponse&logo=nuget&style=flate">
-  </a>
-  </td> </tr>
-  
-  <tr> <td> 
-    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore.MultiLanguage/">
-  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.EntityFrameworkCore.MultiLanguage?color=blue&label=Neptunee.EntityFrameworkCore.MultiLanguage&logo=nuget&style=flate">
   </a>
   </td> </tr>
   
@@ -79,17 +91,7 @@
   </a>
   </td> </tr>
   
-  <tr> <td> 
-    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore/">
-  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.EntityFrameworkCore?color=blue&label=Neptunee.EntityFrameworkCore&logo=nuget&style=flate">
-  </a>
-  </td> </tr>
 
-  <tr> <td> 
-    <a href="https://www.nuget.org/packages/Neptunee.EntityFrameworkCore/">
-  <img alt="Nuget" src="https://img.shields.io/nuget/dt/Neptunee.Handlers?color=blue&label=Neptunee.Handlers&logo=nuget&style=flate">
-  </a>
-  </td> </tr>
   
 
   </tbody>
